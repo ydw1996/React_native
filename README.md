@@ -2,6 +2,8 @@
 
 # 첫 시작(setting)
 
+- local 
+- kitworks local
 [공식문서](https://reactnative.dev/)
 
 - 초기 세팅: [반드시 따라하기](https://reactnative.dev/docs/environment-setup)
